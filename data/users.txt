@@ -1,0 +1,5 @@
+StudentUser,0,100
+SavvySaver,0,150
+BudgetBuddy,0,80
+FinanceWhiz,0,200
+MoneyMaestro,0,120
