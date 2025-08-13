@@ -1,0 +1,44 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled binary files
+*.exe
+*.out
+*.app
+*.i* *.ii *.s *.su *.dSYM/
+
+# Libraries
+*.lib
+*.a
+*.so
+*.dylib
+
+# Debug files
+*.log
+*.idb
+*.pdb
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Visual Studio / IDE
+.vscode/
+*.vcxproj*
+*.sln
+*.user
+*.ncb
+*.sdf
+*.opensdf
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Temporary files
+*.tmp
+*~
